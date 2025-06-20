@@ -1,12 +1,14 @@
 ---
 title: "Economic Connectedness"
 format: html
+execute: 
+  echo: false
 ---
 
 
 ```{r}
 #| echo: false
-#| warning: false
+#| message: false
 library(primer.data)
 library(tidyverse)
 ```
