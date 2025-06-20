@@ -1,0 +1,14 @@
+---
+title: "Economic Connectedness"
+format: html
+---
+
+
+```{r}
+#| echo: false
+#| warning: false
+library(primer.data)
+library(tidyverse)
+```
+
+The connectedness dataset from the primer.data package provides detailed insights into social capital and economic mobility across U.S. counties. One of its key variables, connectedness, measures the degree to which low-income individuals are socially connected to high-income individuals within a given county. This metric serves as a proxy for social cohesion and the potential for upward mobility. Higher levels of connectedness are often associated with better economic outcomes for disadvantaged groups, as they suggest more integration across class lines and greater access to opportunity-rich networks. Analyzing this data can reveal how social structure varies geographically and highlight areas where interventions might improve equality of opportunity.
